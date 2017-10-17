@@ -76,3 +76,5 @@ chisqtestGC(results, graph = TRUE)
 ## Conclusions
 
 <Summarise your results as to the effectiveness of the vaccine with explanations that could be understood by your mom>
+
+What we are able to conclude from the results of this test is that there was a small difference between the people that contracted aids. There were two groups of people that contracted the disease, the group that took the vaccine and the group that took the placebo. The group that was taking the vaccine was slightly smaller than the group that was taking the placebo. The test proves that there may have been some help from the vaccine but when we took a look at the null hypothesis we can see that the difference may not have been significant enough to prove a positive result. If the test was done again we may not be able to get the same reults.
