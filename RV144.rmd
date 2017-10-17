@@ -45,6 +45,7 @@ rownames(results) <- c("none","aids")
 
 ## Results
 <!-- You are to add descriptive comments to explain to the reader what the plot is showing !-->
+The results are showing us that there was a small percentage of the subjects ended up with aids. Within the group that contracted aids we can see that the subjects that were given the vacine the percentage was much lower than the group that received the placebo, about 20 percent.
 
 ### Graphical results
 <!--Display graphical evidence as to the effectiveness of the vaccine with explanations!-->
