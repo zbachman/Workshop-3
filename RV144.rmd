@@ -61,7 +61,7 @@ colPerc(results)
 rowPerc(results)
 ```
 
-
+As we can see with the numerical results we see that a very small percentage, .62, of the people that received the vacine contracted aids. the other collum shows that .9 percent of the people given the placebo contracted aids. The row percentages show us that 40.8 percent of people given the vacine and contracted aids is almost 20 percent smaller than the group that took the placebo and contracted aids which was at 59.20 percent.
 
 
 ## Inferential results
