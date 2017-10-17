@@ -71,7 +71,7 @@ rowPerc(results)
 ```{r}
 chisqtestGC(results, graph = TRUE)
 ```
-
+You would reject the null based of the p value of .0482 being less than .05. This shows us that there is a slim chance of these results happening again. We can see that the reults difference between the vaccine and placebo is very close to the differential and not significant enough to prove something of importance happened. If the percentage was greater than .05 we could conclude there was a significant difference.
 
 ## Conclusions
 
